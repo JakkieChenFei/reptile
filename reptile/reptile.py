@@ -4,7 +4,7 @@ from urllib import request
 import re
 #工具类
 class TOOL:
-    removeAddr = re.compile()
+    removeAddr = re.compile('')
 #知乎爬虫
 class ZHIHU:
     #初始化，传入基地址
